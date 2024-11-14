@@ -54,5 +54,3 @@ A simple and engaging slot machine game built with Unity. This game features an 
 3. Load the main scene
 4. Press Play to start testing
 
----
-Have fun and gamble responsibly! 🎰
